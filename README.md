@@ -1,5 +1,5 @@
 -# Sobre mim 
-- 👋 Hi, I’m @SIMONESCHUCk
+- 👋 ola meu nome  @SIMONESCHUCk
 -👍meu email de contato e simone.schuck@escola.pr.gov.br
 -  👀 eu estou interessada  em aprender o programa de linguagens
 - 🌱 eu estou aprendendo a programar recentemente linguagem de Javascipt e Scratch
